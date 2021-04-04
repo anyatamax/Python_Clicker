@@ -1,0 +1,8 @@
+Чтобы запустить программу через терминал:
+Скопируйте папку Clicker
+Так же необходимо установить tkinter:
+sudo apt-get install python3-tk
+Перейти в папку:
+cd Clicker
+И запустить программу:
+python3 main.py
